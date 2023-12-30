@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Veggie Delight",
+        "imageSrc": "assets/veg/veggie.jpg",
+        "time": "30 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.2
+    },
+    {
+        "name": "Chicken Grill",
+        "imageSrc": "assets/nonveg/chicken_grill.jpg",
+        "time": "45 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.5
+    },
+    {
+        "name": "Cheese Pizza",
+        "imageSrc": "assets/veg/cheese_pizza.jpg",
+        "time": "40 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.1
+    },
+    {
+        "name": "Steak",
+        "imageSrc": "assets/nonveg/steak.jpg",
+        "time": "60 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.7
+    },
+    {
+        "name": "Grilled Salmon",
+        "imageSrc": "assets/nonveg/grilled_salmon.jpg",
+        "time": "50 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.6
+    },
+    {
+        "name": "Tomato Pasta",
+        "imageSrc": "assets/veg/tomato_pasta.jpg",
+        "time": "35 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.0
+    },
+    {
+        "name": "Vegan Salad",
+        "imageSrc": "assets/veg/salad.jpg",
+        "time": "20 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 3.9
+    },
+    {
+        "name": "Fried Chicken",
+        "imageSrc": "assets/nonveg/fried_chicken.jpg",
+        "time": "55 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.3
+    },
+    {
+        "name": "Mushroom Risotto",
+        "imageSrc": "assets/veg/mushroom_risotto.jpg",
+        "time": "45 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.5
+    },
+    {
+        "name": "Burger",
+        "imageSrc": "assets/nonveg/burger.jpg",
+        "time": "30 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.2
+    },
+    {
+        "name": "Paneer Tikka",
+        "imageSrc": "assets/veg/paneer_tikka.jpg",
+        "time": "40 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.4
+    },
+    {
+        "name": "BBQ Ribs",
+        "imageSrc": "assets/nonveg/bbq_ribs.jpg",
+        "time": "70 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.6
+    },
+    {
+        "name": "Chicken Salad",
+        "imageSrc": "assets/nonveg/chicken_salad.jpg",
+        "time": "60 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.6
+    },
+    {
+        "name": "Caesar Salad",
+        "imageSrc": "assets/veg/caesar_salad.jpg",
+        "time": "25 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 3.8
+    },
+    {
+        "name": "Fish Tacos",
+        "imageSrc": "assets/nonveg/tacos.jpg",
+        "time": "35 min",
+        "type": "non-veg",
+        "isLiked": false,
+        "rating": 4.3
+    },
+    {
+        "name": "Chocolate Cake",
+        "imageSrc": "assets/veg/chocolate_cake.jpg",
+        "time": "90 min",
+        "type": "veg",
+        "isLiked": false,
+        "rating": 4.9
+    }
+]
